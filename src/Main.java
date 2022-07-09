@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int startingBill = 100; // Начальный счет клиента
-        int amountPlus = 1359; // Сумма пополнения
+        int amountPlus = 1859; // Сумма пополнения
         int amountRubles = 100; // Количество рублей, за которые начсляется 1 рубль
         int amountBonus;
 
